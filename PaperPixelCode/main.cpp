@@ -6,14 +6,26 @@
 //  Copyright (c) 2014 Frog. All rights reserved.
 //
 
+
 #include <iostream>
-#include <opencv2/opencv.hpp>
+#include <string>
+#include <unistd.h>
 
-int main(int argc, const char * argv[])
-{
+#include "find_components.h"
 
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return 0;
+
+using namespace ppc;
+
+int main(int argc,char** argv){
+    
+    
+    
+    char * dir = getcwd(NULL, 0);
+    //    printf("Current dir: %s", dir);
+    string path =  string(dir) + "/Tearsheet.png";
+    
+    Components com(path);
+    com.find();
+    com.save_image(string(dir));
+    
 }
-

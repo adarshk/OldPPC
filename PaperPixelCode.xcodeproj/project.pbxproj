@@ -103,6 +103,17 @@
 		850BD84A19620E7100B0B81E /* libtiffxx.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 850BD7EC19620E7000B0B81E /* libtiffxx.5.dylib */; };
 		850BD84B19620E7100B0B81E /* libtiffxx.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 850BD7ED19620E7000B0B81E /* libtiffxx.a */; };
 		850BD84C19620E7100B0B81E /* libtiffxx.5.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 850BD7EE19620E7000B0B81E /* libtiffxx.5.dylib */; };
+		850BD8651962104900B0B81E /* apply_threshold.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD8501962104900B0B81E /* apply_threshold.cpp */; };
+		850BD8661962104900B0B81E /* contoursWorking.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD8521962104900B0B81E /* contoursWorking.cpp */; };
+		850BD8671962104900B0B81E /* detect_contours.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD8531962104900B0B81E /* detect_contours.cpp */; };
+		850BD8681962104900B0B81E /* display_window.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD8551962104900B0B81E /* display_window.cpp */; };
+		850BD8691962104900B0B81E /* Experimental.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD8571962104900B0B81E /* Experimental.cpp */; };
+		850BD86A1962104900B0B81E /* ExtractDescriptors.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD8591962104900B0B81E /* ExtractDescriptors.cpp */; };
+		850BD86B1962104900B0B81E /* feature_extractor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD85B1962104900B0B81E /* feature_extractor.cpp */; };
+		850BD86C1962104900B0B81E /* find_components.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD85D1962104900B0B81E /* find_components.cpp */; };
+		850BD86D1962104900B0B81E /* find_edges.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD85F1962104900B0B81E /* find_edges.cpp */; };
+		850BD86E1962104900B0B81E /* k_nearest_neighbor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD8611962104900B0B81E /* k_nearest_neighbor.cpp */; };
+		850BD86F1962104900B0B81E /* load_image.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 850BD8631962104900B0B81E /* load_image.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -217,6 +228,27 @@
 		850BD7ED19620E7000B0B81E /* libtiffxx.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libtiffxx.a; sourceTree = "<group>"; };
 		850BD7EE19620E7000B0B81E /* libtiffxx.5.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; path = libtiffxx.5.dylib; sourceTree = "<group>"; };
 		850BD84F19620F5000B0B81E /* Tearsheet.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tearsheet.png; sourceTree = "<group>"; };
+		850BD8501962104900B0B81E /* apply_threshold.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = apply_threshold.cpp; sourceTree = "<group>"; };
+		850BD8511962104900B0B81E /* apply_threshold.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = apply_threshold.h; sourceTree = "<group>"; };
+		850BD8521962104900B0B81E /* contoursWorking.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = contoursWorking.cpp; sourceTree = "<group>"; };
+		850BD8531962104900B0B81E /* detect_contours.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = detect_contours.cpp; sourceTree = "<group>"; };
+		850BD8541962104900B0B81E /* detect_contours.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = detect_contours.h; sourceTree = "<group>"; };
+		850BD8551962104900B0B81E /* display_window.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = display_window.cpp; sourceTree = "<group>"; };
+		850BD8561962104900B0B81E /* display_window.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = display_window.h; sourceTree = "<group>"; };
+		850BD8571962104900B0B81E /* Experimental.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Experimental.cpp; sourceTree = "<group>"; };
+		850BD8581962104900B0B81E /* Experimental.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Experimental.h; sourceTree = "<group>"; };
+		850BD8591962104900B0B81E /* ExtractDescriptors.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ExtractDescriptors.cpp; sourceTree = "<group>"; };
+		850BD85A1962104900B0B81E /* ExtractDescriptors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExtractDescriptors.h; sourceTree = "<group>"; };
+		850BD85B1962104900B0B81E /* feature_extractor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = feature_extractor.cpp; sourceTree = "<group>"; };
+		850BD85C1962104900B0B81E /* feature_extractor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = feature_extractor.h; sourceTree = "<group>"; };
+		850BD85D1962104900B0B81E /* find_components.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = find_components.cpp; sourceTree = "<group>"; };
+		850BD85E1962104900B0B81E /* find_components.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = find_components.h; sourceTree = "<group>"; };
+		850BD85F1962104900B0B81E /* find_edges.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = find_edges.cpp; sourceTree = "<group>"; };
+		850BD8601962104900B0B81E /* find_edges.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = find_edges.h; sourceTree = "<group>"; };
+		850BD8611962104900B0B81E /* k_nearest_neighbor.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = k_nearest_neighbor.cpp; sourceTree = "<group>"; };
+		850BD8621962104900B0B81E /* k_nearest_neighbor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = k_nearest_neighbor.h; sourceTree = "<group>"; };
+		850BD8631962104900B0B81E /* load_image.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = load_image.cpp; sourceTree = "<group>"; };
+		850BD8641962104900B0B81E /* load_image.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = load_image.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -346,6 +378,27 @@
 			isa = PBXGroup;
 			children = (
 				850BD78819620E3100B0B81E /* main.cpp */,
+				850BD8501962104900B0B81E /* apply_threshold.cpp */,
+				850BD8511962104900B0B81E /* apply_threshold.h */,
+				850BD8521962104900B0B81E /* contoursWorking.cpp */,
+				850BD8531962104900B0B81E /* detect_contours.cpp */,
+				850BD8541962104900B0B81E /* detect_contours.h */,
+				850BD8551962104900B0B81E /* display_window.cpp */,
+				850BD8561962104900B0B81E /* display_window.h */,
+				850BD8571962104900B0B81E /* Experimental.cpp */,
+				850BD8581962104900B0B81E /* Experimental.h */,
+				850BD8591962104900B0B81E /* ExtractDescriptors.cpp */,
+				850BD85A1962104900B0B81E /* ExtractDescriptors.h */,
+				850BD85B1962104900B0B81E /* feature_extractor.cpp */,
+				850BD85C1962104900B0B81E /* feature_extractor.h */,
+				850BD85D1962104900B0B81E /* find_components.cpp */,
+				850BD85E1962104900B0B81E /* find_components.h */,
+				850BD85F1962104900B0B81E /* find_edges.cpp */,
+				850BD8601962104900B0B81E /* find_edges.h */,
+				850BD8611962104900B0B81E /* k_nearest_neighbor.cpp */,
+				850BD8621962104900B0B81E /* k_nearest_neighbor.h */,
+				850BD8631962104900B0B81E /* load_image.cpp */,
+				850BD8641962104900B0B81E /* load_image.h */,
 				850BD78A19620E3100B0B81E /* PaperPixelCode.1 */,
 			);
 			path = PaperPixelCode;
@@ -511,7 +564,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				850BD8651962104900B0B81E /* apply_threshold.cpp in Sources */,
+				850BD8691962104900B0B81E /* Experimental.cpp in Sources */,
+				850BD8671962104900B0B81E /* detect_contours.cpp in Sources */,
+				850BD86D1962104900B0B81E /* find_edges.cpp in Sources */,
+				850BD8661962104900B0B81E /* contoursWorking.cpp in Sources */,
+				850BD86F1962104900B0B81E /* load_image.cpp in Sources */,
+				850BD8681962104900B0B81E /* display_window.cpp in Sources */,
+				850BD86B1962104900B0B81E /* feature_extractor.cpp in Sources */,
 				850BD78919620E3100B0B81E /* main.cpp in Sources */,
+				850BD86A1962104900B0B81E /* ExtractDescriptors.cpp in Sources */,
+				850BD86E1962104900B0B81E /* k_nearest_neighbor.cpp in Sources */,
+				850BD86C1962104900B0B81E /* find_components.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

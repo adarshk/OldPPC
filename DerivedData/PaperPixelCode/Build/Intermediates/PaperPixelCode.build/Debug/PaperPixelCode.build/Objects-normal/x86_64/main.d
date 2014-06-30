@@ -1,5 +1,6 @@
 dependencies: \
   /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp \
+  /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.h \
   /usr/local/include/opencv2/opencv.hpp \
   /usr/local/include/opencv2/core/core_c.h \
   /usr/local/include/opencv2/core/types_c.h \
@@ -26,4 +27,7 @@ dependencies: \
   /usr/local/include/opencv2/highgui/highgui.hpp \
   /usr/local/include/opencv2/contrib/contrib.hpp \
   /usr/local/include/opencv2/contrib/retina.hpp \
-  /usr/local/include/opencv2/contrib/openfabmap.hpp
+  /usr/local/include/opencv2/contrib/openfabmap.hpp \
+  /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.h \
+  /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.h \
+  /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.h

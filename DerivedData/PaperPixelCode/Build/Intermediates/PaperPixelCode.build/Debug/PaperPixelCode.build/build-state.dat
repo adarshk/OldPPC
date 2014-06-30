@@ -3,6 +3,17 @@ v6
 r1
 cCheck dependencies
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/contoursWorking.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode normal x86_64
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
@@ -190,23 +201,172 @@ c00000000538CF3A90000000000001770
 t1401746345
 s6000
 
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o
+t1404164308
+s2112
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.o
+t1404164315
+s342660
+
 N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/PaperPixelCode.LinkFileList
-c0000000053B1D74500000000000000B6
-t1404163909
-s182
+c0000000053B1D8D300000000000008FB
+t1404164307
+s2299
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.o
+t1404164311
+s99908
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.o
+t1404164308
+s1776
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.o
+t1404164311
+s303768
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.o
+t1404164313
+s80612
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.o
+t1404164313
+s232656
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.o
+t1404165014
+s570756
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.o
+t1404164311
+s95508
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.o
+t1404164316
+s2124
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.o
+t1404164311
+s99428
 
 N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o
-t1404163943
-s67696
+t1404165013
+s173184
 
 N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode
-t1404163910
-s16780
+t1404164442
+s209376
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp
+c0000000053B1B35500000000000000A7
+t1404154709
+s167
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.h
+c0000000053B1B355000000000000011E
+t1404154709
+s286
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp
+c0000000053B1B3540000000000000CCB
+t1404154708
+s3275
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.h
+c0000000053B1B354000000000000066F
+t1404154708
+s1647
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp
+c0000000053B1B3550000000000000BD9
+t1404154709
+s3033
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.h
+c0000000053B1B35500000000000004C9
+t1404154709
+s1225
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/contoursWorking.cpp
+c000000005395E32B0000000000000929
+t1402331947
+s2345
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp
+c0000000053B1B3550000000000001079
+t1404154709
+s4217
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.h
+c0000000053B1B35500000000000005C2
+t1404154709
+s1474
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp
+c0000000053B1B355000000000000024A
+t1404154709
+s586
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.h
+c0000000053B1B35500000000000003B6
+t1404154709
+s950
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp
+c0000000053B1B3540000000000000664
+t1404154708
+s1636
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.h
+c0000000053B1B3550000000000000335
+t1404154709
+s821
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp
+c0000000053B1DB8F0000000000003475
+t1404165007
+s13429
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.h
+c0000000053B1DB90000000000000064A
+t1404165008
+s1610
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.cpp
+c0000000053B1B35400000000000008D7
+t1404154708
+s2263
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.h
+c0000000053B1B354000000000000045C
+t1404154708
+s1116
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp
+c0000000053B1B35500000000000000B1
+t1404154709
+s177
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.h
+c0000000053B1B31E0000000000000155
+t1404154654
+s341
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp
+c0000000053B1B354000000000000081A
+t1404154708
+s2074
+
+N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.h
+c0000000053B1B35400000000000004A8
+t1404154708
+s1192
 
 N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp
-c0000000053B1D7640000000000000133
-t1404163940
-s307
+c0000000053B1DB4500000000000001FB
+t1404164933
+s507
 
 N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/libecomlodr.dylib
 c000000005264BC0A0000000000008E80
@@ -428,25 +588,210 @@ c00000000530891B50000000000002D28
 t1393070517
 s11560
 
+N/usr/local/include/opencv2/calib3d/calib3d.hpp
+c000000005347968E0000000000009303
+t1397200526
+s37635
+
+N/usr/local/include/opencv2/contrib/contrib.hpp
+c000000005347968E0000000000009647
+t1397200526
+s38471
+
+N/usr/local/include/opencv2/contrib/openfabmap.hpp
+c000000005347968E0000000000003207
+t1397200526
+s12807
+
+N/usr/local/include/opencv2/contrib/retina.hpp
+c000000005347968E0000000000005D96
+t1397200526
+s23958
+
+N/usr/local/include/opencv2/core/core.hpp
+c000000005347968E000000000002D7CC
+t1397200526
+s186316
+
+N/usr/local/include/opencv2/core/core_c.h
+c000000005347968E00000000000132A1
+t1397200526
+s78497
+
+N/usr/local/include/opencv2/core/mat.hpp
+c000000005347968E0000000000013AB1
+t1397200526
+s80561
+
+N/usr/local/include/opencv2/core/operations.hpp
+c000000005347968E00000000000202A9
+t1397200526
+s131753
+
+N/usr/local/include/opencv2/core/types_c.h
+c000000005347968E000000000000E080
+t1397200526
+s57472
+
+N/usr/local/include/opencv2/core/version.hpp
+c000000005347968E0000000000000BC5
+t1397200526
+s3013
+
+N/usr/local/include/opencv2/features2d/features2d.hpp
+c000000005347968E000000000000F98C
+t1397200526
+s63884
+
+N/usr/local/include/opencv2/flann/config.h
+c000000005347968E00000000000006FD
+t1397200526
+s1789
+
+N/usr/local/include/opencv2/flann/defines.h
+c000000005347968E000000000000124B
+t1397200526
+s4683
+
+N/usr/local/include/opencv2/flann/miniflann.hpp
+c000000005347968E0000000000001785
+t1397200526
+s6021
+
+N/usr/local/include/opencv2/highgui/highgui.hpp
+c000000005347968E00000000000023CA
+t1397200526
+s9162
+
+N/usr/local/include/opencv2/highgui/highgui_c.h
+c000000005347968E0000000000006C83
+t1397200526
+s27779
+
+N/usr/local/include/opencv2/imgproc/imgproc.hpp
+c000000005347968E000000000000DBE5
+t1397200526
+s56293
+
+N/usr/local/include/opencv2/imgproc/imgproc_c.h
+c000000005347968E0000000000007680
+t1397200526
+s30336
+
+N/usr/local/include/opencv2/imgproc/types_c.h
+c000000005347968E0000000000004034
+t1397200526
+s16436
+
+N/usr/local/include/opencv2/ml/ml.hpp
+c000000005347968E00000000000132EA
+t1397200526
+s78570
+
+N/usr/local/include/opencv2/objdetect/objdetect.hpp
+c000000005347968E00000000000095A1
+t1397200526
+s38305
+
+N/usr/local/include/opencv2/opencv.hpp
+c000000005347968E0000000000000ABF
+t1397200526
+s2751
+
+N/usr/local/include/opencv2/photo/photo.hpp
+c000000005347968E0000000000000F9D
+t1397200526
+s3997
+
+N/usr/local/include/opencv2/photo/photo_c.h
+c000000005347968E0000000000000A57
+t1397200526
+s2647
+
+N/usr/local/include/opencv2/video/background_segm.hpp
+c000000005347968E0000000000002A84
+t1397200526
+s10884
+
+N/usr/local/include/opencv2/video/tracking.hpp
+c000000005347968E00000000000047FF
+t1397200526
+s18431
+
+N/usr/local/include/opencv2/video/video.hpp
+c000000005347968E0000000000000970
+t1397200526
+s2416
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/contoursWorking.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp
+r0
+
+CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp
+r0
+
 CBuild AST from /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp
 r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4cc780e50e62b941^14798ae50e62b941^---0#1#1#--18"Check dependencies36"CCB37954-F8AF-4287-9E5B-E2941808AC12-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesad6833131362b941^fddb39131362b941^---0#1#1#--18"Check dependencies36"F0C502FF-0A07-4846-B19F-A3927BE5B433-
 
-CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
-s425856741.541699
-e425856743.905479
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857107.333710
+e425857108.963180
 r1
 xCompileC
-xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o
-x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp
 xnormal
 xx86_64
 xc++
 xcom.apple.compilers.llvm.clang.1_0.compiler
-d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp234"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o PaperPixelCode/Experimental.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler9da055531062b941^2993f6541062b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp0000000000000000^4686"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o PaperPixelCode/Experimental.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o36"07FCB12A-B6D4-4D7C-A289-B4DEEC1F83C3-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857113.455573
+e425857115.636673
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.h
 d/usr/local/include/opencv2/opencv.hpp
 d/usr/local/include/opencv2/core/core_c.h
 d/usr/local/include/opencv2/core/types_c.h
@@ -474,19 +819,411 @@ d/usr/local/include/opencv2/highgui/highgui.hpp
 d/usr/local/include/opencv2/contrib/contrib.hpp
 d/usr/local/include/opencv2/contrib/retina.hpp
 d/usr/local/include/opencv2/contrib/openfabmap.hpp
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp218"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o PaperPixelCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerc5c88ae50e62b941^cdcde7e70e62b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp0000000000000000^4638"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o PaperPixelCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o36"CF617151-55A5-4E96-9B31-06126C07EFF6-
-bC7D6AA77-B622-4A4F-98B1-2D82AD56925E
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp246"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.o PaperPixelCode/ExtractDescriptors.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerebc574591062b941^ebfda25b1062b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp0000000000000000^4722"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.o PaperPixelCode/ExtractDescriptors.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.o36"13C0C330-843A-4A37-BEE2-879D7A7A410C-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857107.333053
+e425857111.205139
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.h
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp240"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.o PaperPixelCode/apply_threshold.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerf06e55531062b941^427c3c571062b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp0000000000000000^4704"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.o PaperPixelCode/apply_threshold.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.o36"B3F66E59-C6EC-4CCA-A280-97B3EBB60867-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/contoursWorking.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857108.963752
+e425857109.006668
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/contoursWorking.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/contoursWorking.cpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/contoursWorking.cpp240"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.o PaperPixelCode/contoursWorking.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerdfddf6541062b941^047201551062b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/contoursWorking.cpp0000000000000000^4704"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.o PaperPixelCode/contoursWorking.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/contoursWorking.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.o36"CB3CEE48-12B4-48B4-AA4B-FD350068FF97-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857107.334128
+e425857111.311426
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.h
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp240"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.o PaperPixelCode/detect_contours.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler61c155531062b941^bfb94f571062b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp0000000000000000^4704"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.o PaperPixelCode/detect_contours.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.o36"2EBC7A6F-9CE7-4D5B-9A23-825A441D5FE1-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857111.202531
+e425857113.455038
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.h
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp238"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.o PaperPixelCode/display_window.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler200834571062b941^a27d74591062b941^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp0000000000000000^4698"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.o PaperPixelCode/display_window.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.o36"059CF7DF-B1DD-457E-A531-A14406311262-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857111.533204
+e425857113.973286
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.h
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp244"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.o PaperPixelCode/feature_extractor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler04a988571062b941^952af9591062b941^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp0000000000000000^4716"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.o PaperPixelCode/feature_extractor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.o36"5BDBB9E0-FD8D-41DC-A275-026C66BF5F5F-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857811.229560
+e425857814.372635
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.h
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.h
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.h
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp240"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.o PaperPixelCode/find_components.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerfaf23a131362b941^ba655f161362b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp0000000000000000^4704"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.o PaperPixelCode/find_components.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.o36"37A9129C-4715-40D4-A56D-E5E5D9A6997E-
+b88F7B7AE-862F-4327-9B01-6767B657F6BB
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857107.335097
+e425857111.200761
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.h
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.cpp230"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.o PaperPixelCode/find_edges.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler68ea55531062b941^9c6f3c571062b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.cpp0000000000000000^4674"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.o PaperPixelCode/find_edges.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.o36"B503B202-FDD7-4345-ADDB-B079C3840D65-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857115.637356
+e425857116.373955
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp246"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.o PaperPixelCode/k_nearest_neighbor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerd862a35b1062b941^38bd5f5c1062b941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp0000000000000000^4722"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.o PaperPixelCode/k_nearest_neighbor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.o36"94D9D758-81FF-4BC5-803D-2014ED468D7A-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857109.007272
+e425857111.532703
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.h
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp230"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.o PaperPixelCode/load_image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compilerdffd01551062b941^d7a0b3571062b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp0000000000000000^4674"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.o PaperPixelCode/load_image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.o36"ABC0BDCE-2444-4B14-8CC1-2D24BB1A25F2-
+b9FE19B2D-C117-433E-9D42-4D0F49E79517
+
+CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s425857811.227315
+e425857813.914823
+r1
+xCompileC
+xDerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o
+x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.h
+d/usr/local/include/opencv2/opencv.hpp
+d/usr/local/include/opencv2/core/core_c.h
+d/usr/local/include/opencv2/core/types_c.h
+d/usr/local/include/opencv2/core/core.hpp
+d/usr/local/include/opencv2/core/version.hpp
+d/usr/local/include/opencv2/core/operations.hpp
+d/usr/local/include/opencv2/core/mat.hpp
+d/usr/local/include/opencv2/flann/miniflann.hpp
+d/usr/local/include/opencv2/flann/defines.h
+d/usr/local/include/opencv2/flann/config.h
+d/usr/local/include/opencv2/imgproc/imgproc_c.h
+d/usr/local/include/opencv2/imgproc/types_c.h
+d/usr/local/include/opencv2/imgproc/imgproc.hpp
+d/usr/local/include/opencv2/photo/photo.hpp
+d/usr/local/include/opencv2/photo/photo_c.h
+d/usr/local/include/opencv2/video/video.hpp
+d/usr/local/include/opencv2/video/tracking.hpp
+d/usr/local/include/opencv2/video/background_segm.hpp
+d/usr/local/include/opencv2/features2d/features2d.hpp
+d/usr/local/include/opencv2/objdetect/objdetect.hpp
+d/usr/local/include/opencv2/calib3d/calib3d.hpp
+d/usr/local/include/opencv2/ml/ml.hpp
+d/usr/local/include/opencv2/highgui/highgui_c.h
+d/usr/local/include/opencv2/highgui/highgui.hpp
+d/usr/local/include/opencv2/contrib/contrib.hpp
+d/usr/local/include/opencv2/contrib/retina.hpp
+d/usr/local/include/opencv2/contrib/openfabmap.hpp
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.h
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_edges.h
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp218"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o PaperPixelCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler7a563a131362b941^1633ea151362b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp0000000000000000^4638"CompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o PaperPixelCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu++11 -stdlib=libc++ -fmodules -fmodules-cache-path=/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.9 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-generated-files.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-own-target-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-all-target-headers.hmap -iquote /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/PaperPixelCode-project-headers.hmap -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/usr/local/include -I/usr/local/include/libpng16 -I/usr/local/include/lzma -I/usr/local/include/opencv -I/usr/local/include/opencv2 -I/usr/local/include/opencv2/calib3d -I/usr/local/include/opencv2/contrib -I/usr/local/include/opencv2/core -I/usr/local/include/opencv2/features2d -I/usr/local/include/opencv2/flann -I/usr/local/include/opencv2/gpu -I/usr/local/include/opencv2/highgui -I/usr/local/include/opencv2/imgproc -I/usr/local/include/opencv2/legacy -I/usr/local/include/opencv2/ml -I/usr/local/include/opencv2/nonfree -I/usr/local/include/opencv2/objdetect -I/usr/local/include/opencv2/ocl -I/usr/local/include/opencv2/photo -I/usr/local/include/opencv2/stitching -I/usr/local/include/opencv2/superres -I/usr/local/include/opencv2/ts -I/usr/local/include/opencv2/video -I/usr/local/include/opencv2/videostab -I/usr/local/include/opencv2/gpu/device -I/usr/local/include/opencv2/stitching/detail -I/usr/local/include/opencv2/gpu/device/detail -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources/x86_64 -I/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/DerivedSources -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -MMD -MT dependencies -MF /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.dia -c /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o36"3C452737-F7EF-4D34-BEB6-11D6525D3D10-
+b88F7B7AE-862F-4327-9B01-6767B657F6BB
 
 CLd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode normal x86_64
-s425856743.909284
-e425856744.102233
+s425857814.375605
+e425857815.621050
 r1
 xLd
 x/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode
 xnormal
 xx86_64
 d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/PaperPixelCode.LinkFileList
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_edges.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/contoursWorking.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.o
 d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.o
+d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.o
 d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/libtiff.5.dylib
 d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/libopencv_objdetect.2.4.9.dylib
 d/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/libopencv_photo.2.4.9.dylib
@@ -564,6 +1301,6 @@ d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
 d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode79"Ld DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode normal x86_64c4e9e8e70e62b941^936f1ae80e62b941^---0#0#1#--5730"Ld DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode normal x86_64    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -L/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode -L/usr/local/lib -L/usr/local/lib/perl5 -L/usr/local/lib/pkgconfig -L/usr/local/lib/python2.7 -L/usr/local/lib/perl5/site_perl -L/usr/local/lib/python2.7/site-packages -L/usr/local/lib/perl5/site_perl/5.16.2 -L/usr/local/lib/perl5/site_perl/Git -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg -L/usr/local/lib/perl5/site_perl/5.16.2/darwin-thread-multi-2level -L/usr/local/lib/perl5/site_perl/Git/SVN -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/EGG-INFO -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip -L/usr/local/lib/perl5/site_perl/5.16.2/darwin-thread-multi-2level/auto -L/usr/local/lib/perl5/site_perl/Git/SVN/Memoize -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/backwardcompat -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/commands -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/vcs -L/usr/local/lib/perl5/site_perl/5.16.2/darwin-thread-multi-2level/auto/Git -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/_markerlib -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/colorama -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/distlib -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/distlib/_backport -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/filters -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/serializer -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/treeadapters -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/treebuilders -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/treewalkers -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/trie -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/chardet -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3 -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3/contrib -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3/packages -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3/util -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -filelist /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/PaperPixelCode.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -ltiff.5 -lopencv_objdetect.2.4.9 -lopencv_photo.2.4.9 -lopencv_gpu.2.4.9 -lopencv_gpu.2.4.9 -lopencv_legacy.2.4.9 -lpcreposix -ljpeg.8 -lopencv_ocl.2.4.9 -lopencv_nonfree.2.4.9 -lopencv_ml.2.4.9 -lidn.11 -lopencv_video.2.4.9 -lpcre.1 -lopencv_videostab.2.4.9 -lopencv_features2d.2.4.9 -lopencv_contrib.2.4.9 -lopencv_imgproc.2.4.9 -lopencv_highgui.2.4.9 -lopencv_flann.2.4.9 -lpcreposix.0 -lpng16 -lpcrecpp -lopencv_imgproc.2.4.9 -lopencv_stitching.2.4.9 -lopencv_gpu.2.4.9 -lopencv_superres.2.4.9 -lopencv_objdetect.2.4.9 -lpng16.16 -lopencv_objdetect.2.4.9 -lopencv_ml.2.4.9 -lpcre16.0 -lpcre32.0 -lopencv_photo.2.4.9 -lpcreposix.0 -lpcre16.0 -lpcre16 -lopencv_ocl.2.4.9 -lopencv_core.2.4.9 -lopencv_superres.2.4.9 -llzma.5 -lopencv_contrib.2.4.9 -lopencv_superres.2.4.9 -lpcre.1 -ltiff.5 -lgdbm.4 -ltiffxx.5 -lpng16 -lopencv_ml.2.4.9 -llzma.5 -ltiffxx.5 -lopencv_video.2.4.9 -lopencv_flann.2.4.9 -lopencv_photo.2.4.9 -lopencv_legacy.2.4.9 -lopencv_stitching.2.4.9 -lopencv_nonfree.2.4.9 -lopencv_imgproc.2.4.9 -lopencv_highgui.2.4.9 -lopencv_features2d.2.4.9 -ljpeg -lgdbm.4 -lopencv_calib3d.2.4.9 -lpcrecpp.0 -lpcrecpp.0 -lpcre -lopencv_nonfree.2.4.9 -lopencv_flann.2.4.9 -lopencv_videostab.2.4.9 -lecomlodr -lpcre32.0 -ltiffxx -lopencv_contrib.2.4.9 -lopencv_highgui.2.4.9 -lopencv_legacy.2.4.9 -lopencv_features2d.2.4.9 -ljpeg.8 -lpng16.16 -ltiff -lopencv_ts -lidn -lopencv_calib3d.2.4.9 -lopencv_core.2.4.9 -lopencv_core.2.4.9 -lidn.11 -lopencv_ocl.2.4.9 -lopencv_videostab.2.4.9 -lgdbm -lopencv_stitching.2.4.9 -lpng16.16 -lpcre32 -lopencv_calib3d.2.4.9 -lopencv_video.2.4.9 -llzma -Xlinker -dependency_info -Xlinker /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/PaperPixelCode_dependency_info.dat -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode36"CEA3ED3B-4E49-43EF-8DAC-3201603EBB99-
-bC7D6AA77-B622-4A4F-98B1-2D82AD56925E
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Link /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode79"Ld DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode normal x86_64a05360161362b941^ebfd9e171362b941^---0#0#1#--5730"Ld DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode normal x86_64    cd /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode    export MACOSX_DEPLOYMENT_TARGET=10.9    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -L/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode -L/usr/local/lib -L/usr/local/lib/perl5 -L/usr/local/lib/pkgconfig -L/usr/local/lib/python2.7 -L/usr/local/lib/perl5/site_perl -L/usr/local/lib/python2.7/site-packages -L/usr/local/lib/perl5/site_perl/5.16.2 -L/usr/local/lib/perl5/site_perl/Git -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg -L/usr/local/lib/perl5/site_perl/5.16.2/darwin-thread-multi-2level -L/usr/local/lib/perl5/site_perl/Git/SVN -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/EGG-INFO -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip -L/usr/local/lib/perl5/site_perl/5.16.2/darwin-thread-multi-2level/auto -L/usr/local/lib/perl5/site_perl/Git/SVN/Memoize -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/backwardcompat -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/commands -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/vcs -L/usr/local/lib/perl5/site_perl/5.16.2/darwin-thread-multi-2level/auto/Git -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/_markerlib -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/colorama -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/distlib -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/distlib/_backport -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/filters -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/serializer -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/treeadapters -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/treebuilders -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/treewalkers -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/html5lib/trie -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/chardet -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3 -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3/contrib -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3/packages -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3/util -L/usr/local/lib/python2.7/site-packages/pip-1.5.6-py2.7.egg/pip/_vendor/requests/packages/urllib3/packages/ssl_match_hostname -F/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug -filelist /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/PaperPixelCode.LinkFileList -mmacosx-version-min=10.9 -stdlib=libc++ -ltiff.5 -lopencv_objdetect.2.4.9 -lopencv_photo.2.4.9 -lopencv_gpu.2.4.9 -lopencv_gpu.2.4.9 -lopencv_legacy.2.4.9 -lpcreposix -ljpeg.8 -lopencv_ocl.2.4.9 -lopencv_nonfree.2.4.9 -lopencv_ml.2.4.9 -lidn.11 -lopencv_video.2.4.9 -lpcre.1 -lopencv_videostab.2.4.9 -lopencv_features2d.2.4.9 -lopencv_contrib.2.4.9 -lopencv_imgproc.2.4.9 -lopencv_highgui.2.4.9 -lopencv_flann.2.4.9 -lpcreposix.0 -lpng16 -lpcrecpp -lopencv_imgproc.2.4.9 -lopencv_stitching.2.4.9 -lopencv_gpu.2.4.9 -lopencv_superres.2.4.9 -lopencv_objdetect.2.4.9 -lpng16.16 -lopencv_objdetect.2.4.9 -lopencv_ml.2.4.9 -lpcre16.0 -lpcre32.0 -lopencv_photo.2.4.9 -lpcreposix.0 -lpcre16.0 -lpcre16 -lopencv_ocl.2.4.9 -lopencv_core.2.4.9 -lopencv_superres.2.4.9 -llzma.5 -lopencv_contrib.2.4.9 -lopencv_superres.2.4.9 -lpcre.1 -ltiff.5 -lgdbm.4 -ltiffxx.5 -lpng16 -lopencv_ml.2.4.9 -llzma.5 -ltiffxx.5 -lopencv_video.2.4.9 -lopencv_flann.2.4.9 -lopencv_photo.2.4.9 -lopencv_legacy.2.4.9 -lopencv_stitching.2.4.9 -lopencv_nonfree.2.4.9 -lopencv_imgproc.2.4.9 -lopencv_highgui.2.4.9 -lopencv_features2d.2.4.9 -ljpeg -lgdbm.4 -lopencv_calib3d.2.4.9 -lpcrecpp.0 -lpcrecpp.0 -lpcre -lopencv_nonfree.2.4.9 -lopencv_flann.2.4.9 -lopencv_videostab.2.4.9 -lecomlodr -lpcre32.0 -ltiffxx -lopencv_contrib.2.4.9 -lopencv_highgui.2.4.9 -lopencv_legacy.2.4.9 -lopencv_features2d.2.4.9 -ljpeg.8 -lpng16.16 -ltiff -lopencv_ts -lidn -lopencv_calib3d.2.4.9 -lopencv_core.2.4.9 -lopencv_core.2.4.9 -lidn.11 -lopencv_ocl.2.4.9 -lopencv_videostab.2.4.9 -lgdbm -lopencv_stitching.2.4.9 -lpng16.16 -lpcre32 -lopencv_calib3d.2.4.9 -lopencv_video.2.4.9 -llzma -Xlinker -dependency_info -Xlinker /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/PaperPixelCode_dependency_info.dat -o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode36"A299E3B9-EA96-4AB0-B1CA-F0D10653C850-
+b88F7B7AE-862F-4327-9B01-6767B657F6BB
 
