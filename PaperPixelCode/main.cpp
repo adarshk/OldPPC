@@ -26,6 +26,6 @@ int main(int argc,char** argv){
     
     Components com(path);
     com.find();
-    com.save_image(string(dir));
+//    com.save_image(string(dir));
     
 }

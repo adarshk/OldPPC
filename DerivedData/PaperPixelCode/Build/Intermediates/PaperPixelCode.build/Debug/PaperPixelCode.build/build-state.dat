@@ -2,7 +2,6 @@ TPaperPixelCode
 v6
 r1
 cCheck dependencies
-cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/apply_threshold.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/apply_threshold.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/detect_contours.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/detect_contours.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
@@ -11,6 +10,7 @@ cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/De
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/load_image.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/load_image.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/display_window.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/display_window.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/feature_extractor.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/feature_extractor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/main.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/ExtractDescriptors.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/ExtractDescriptors.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/k_nearest_neighbor.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/k_nearest_neighbor.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 cCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/find_components.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/find_components.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
@@ -255,8 +255,8 @@ t1404165013
 s173184
 
 N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/DerivedData/PaperPixelCode/Build/Products/Debug/PaperPixelCode
-t1404164442
-s209376
+t1404165015
+s210744
 
 N/Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp
 c0000000053B1B35500000000000000A7
@@ -761,7 +761,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesad6833131362b941^fddb39131362b941^---0#1#1#--18"Check dependencies36"F0C502FF-0A07-4846-B19F-A3927BE5B433-
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies90be3d601462b941^92773e601462b941^---0#1#1#--18"Check dependencies36"C20E3D44-6D4A-4C1A-BEAF-96CC8BB3CC72-
 
 CCompileC DerivedData/PaperPixelCode/Build/Intermediates/PaperPixelCode.build/Debug/PaperPixelCode.build/Objects-normal/x86_64/Experimental.o /Users/adarsh.kosuru/Documents/AllProjects/PaperPixelCode/PaperPixelCode/Experimental.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s425857107.333710
