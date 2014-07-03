@@ -67,7 +67,7 @@ namespace ppc {
         //    cv::GaussianBlur(source_image_resized,blurred_image,Size(1,1),0);
 //        cv::namedWindow("Blurred",CV_WINDOW_AUTOSIZE);
 //        cv::imshow("Blurred", source_image_blurred);
-        std::vector<std::vector<cv::Point>> contours;
+        std::vector<std::vector<cv::Point> > contours;
         
         squares.clear();
         
@@ -81,7 +81,7 @@ namespace ppc {
 //        cv::waitKey(0);
     }
     
-    void Components::squares_method(cv::Mat& gray0,cv::Mat& gray,std::vector<std::vector<cv::Point>>& contours) throw(cv::Exception){
+    void Components::squares_method(cv::Mat& gray0,cv::Mat& gray,std::vector<std::vector<cv::Point> >& contours) throw(cv::Exception){
         
         vector<cv::Vec4i> parent_hierarchy;
         vector<int> indexes;
@@ -112,7 +112,7 @@ namespace ppc {
                 //            cout << "contour size - " << contours.size() << endl;
                 //            cout << "hierarchy size - " << squares_hierarchy.size() << endl;
                 
-                for (vector<vector<Point>>::iterator itr = contours.begin(); itr!=contours.end(); ++itr) {
+                for (vector<vector<Point> >::iterator itr = contours.begin(); itr!=contours.end(); ++itr) {
                     //cout << "contours - " << *itr << endl;
                 }
                 
@@ -196,7 +196,7 @@ namespace ppc {
                 }
                 
                 Mat rect_hull = cv::Mat::zeros(gray.size(), CV_8UC3);
-                for (vector<vector<Point>>::iterator it=hull.begin(); it!=hull.end(); ++it) {
+                for (vector<vector<Point> >::iterator it=hull.begin(); it!=hull.end(); ++it) {
                     Rect rh = boundingRect(Mat(*it));
                     hull_rectangles.push_back(rh);
                     

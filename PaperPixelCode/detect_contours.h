@@ -19,7 +19,7 @@ namespace ppc{
         cv::Mat source,result;
         int mode,approximation;
         std::vector<cv::Vec4i> hierarchy;
-        std::vector<std::vector<cv::Point>> contours;
+        std::vector<std::vector<cv::Point> > contours;
         std::vector<cv::RotatedRect> min_rectangles;
         void form_rectangles();
         
@@ -32,7 +32,7 @@ namespace ppc{
         ~Contours();
         
 //        void set_contours(std::vector<std::vector<cv::Point>> set_contours);
-        const std::vector<std::vector<cv::Point>> get_contours() const;
+        const std::vector<std::vector<cv::Point> > get_contours() const;
 //        void set_hierarchy(std::vector<cv::Vec4i> set_hierarchy);
         const std::vector<cv::Vec4i> get_hierarchy() const;
         Contours& set_source_image(cv::Mat query);

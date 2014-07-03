@@ -10,6 +10,7 @@
 
 #include <iostream>
 #include <opencv2/opencv.hpp>
+#include <boost/python.hpp>
 #include "load_image.h"
 #include "find_edges.h"
 #include "detect_contours.h"
@@ -25,7 +26,7 @@ namespace ppc {
         Components(std::string& dir_path);
         ~Components();
         void find() throw(cv::Exception);
-        void squares_method(cv::Mat& gray0,cv::Mat& gray,std::vector<std::vector<cv::Point>>& contours) throw(cv::Exception);
+        void squares_method(cv::Mat& gray0,cv::Mat& gray,std::vector<std::vector<cv::Point> >& contours) throw(cv::Exception);
         void print_values();
         void show_image_windows();
         void save_image(string dir);
@@ -33,9 +34,9 @@ namespace ppc {
     private:
         std::string path;
         
-        std::vector<std::vector<cv::Point>> squares;
+        std::vector<std::vector<cv::Point> > squares;
         vector<cv::Vec4i> squares_hierarchy;
-        vector<vector<Point>> needed_contours;
+        vector<vector<Point> > needed_contours;
         vector<Rect> all_rectangles,hull_rectangles;
         
         cv::Mat source_image, source_image_resized,source_image_output,source_image_hull,source_image_blurred;
