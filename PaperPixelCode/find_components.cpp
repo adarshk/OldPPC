@@ -12,6 +12,7 @@
 #endif
 
 #include "find_components.h"
+#include <boost/python.hpp>
 
 namespace ppc {
     Components::Components():path(""){}
@@ -276,7 +277,8 @@ namespace ppc {
             
             
             for (vector<Mat>::iterator exim=extracted_images.begin(); exim!=extracted_images.end(); ++exim) {
-                string image_name = "Image"+to_string(extracted_images_counter);
+		string image_name = str( boost::format("Image%03d") % extracted_images_counter );
+
                 namedWindow(image_name,CV_WINDOW_AUTOSIZE);
                 imshow(image_name, *exim);
                 extracted_images_counter++;
@@ -312,5 +314,7 @@ namespace ppc {
     void Components::save_image(string dir){
         imwrite( dir + "/image_result.jpg", source_image_output);
     }
-    
+
 }
+
+

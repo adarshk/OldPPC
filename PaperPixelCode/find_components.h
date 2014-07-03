@@ -11,6 +11,7 @@
 #include <iostream>
 #include <opencv2/opencv.hpp>
 #include <boost/python.hpp>
+#include <boost/format.hpp>
 #include "load_image.h"
 #include "find_edges.h"
 #include "detect_contours.h"
@@ -58,4 +59,6 @@ namespace ppc {
         static double angle(Point pt1, Point pt2, Point pt0);
         
     };
+
 }
+

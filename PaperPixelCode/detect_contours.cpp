@@ -76,7 +76,7 @@ namespace ppc {
         CheckWithMessage(std::string("Set a source image using set_source_image method before finding contours"), source.data);
         result = cv::Mat::zeros(source.size(), CV_8UC3);
         
-        for (std::vector<std::vector<cv::Point>>::iterator itr = contours.begin(); itr!=contours.end(); ++itr) {
+        for (std::vector<std::vector<cv::Point> >::iterator itr = contours.begin(); itr!=contours.end(); ++itr) {
             cv::Rect r = cv::boundingRect(cv::Mat(*itr));
             rectangle(result, r, cv::Scalar(255), 2);
         }
@@ -95,7 +95,7 @@ namespace ppc {
     }
     
     
-    const std::vector<std::vector<cv::Point>> Contours::get_contours() const{
+    const std::vector<std::vector<cv::Point> > Contours::get_contours() const{
         return contours;
     }
     const std::vector<cv::Vec4i> Contours::get_hierarchy() const{

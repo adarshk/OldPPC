@@ -5,3 +5,4 @@ PaperPixelCode.xcodeproj/xcuserdata/
 DerivedData/
 *.swp
 *.o
+*.so
