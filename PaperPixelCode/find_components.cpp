@@ -16,6 +16,21 @@
 
 namespace ppc {
     Components::Components():path(""){}
+    Components::Components(std::string d1):
+				path(d1),
+        no_of_threshold_levels(10),
+        lower_thresh(0),
+        upper_thresh(255),
+        counter(0),
+        extracted_images_counter(0),
+        area(500),
+        width(500),
+        height(500),
+        edge_image(lower_thresh,upper_thresh),
+        window_size(CV_WINDOW_AUTOSIZE),
+        display_extracted_images(false),
+        contours_image(CV_RETR_TREE,CV_CHAIN_APPROX_SIMPLE){}
+
     Components::Components(std::string& dir_path):
     
         path(dir_path),

@@ -24,6 +24,7 @@ namespace ppc {
         
     public:
         Components();
+	Components(std::string d1);
         Components(std::string& dir_path);
         ~Components();
         void find() throw(cv::Exception);
