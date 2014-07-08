@@ -45,7 +45,7 @@ import time
 #atexit.register(readline.write_history_file, histfile)
 from flask import Flask
 from flask import request
-from paperpixel import Components
+from pixel import Components
 import uuid
 
 class NoDestinationException(Exception):
