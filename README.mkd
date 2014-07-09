@@ -1,0 +1,70 @@
+## Readme ##
+
+---
+
+### Main Project ###
+
+![tearsheet](Tearsheet.png)
+
+**OpenCV Use**
+
+**Algorithms Chosen**
+
+---
+
+### Python Bindings ###
+
+**Boost.Python**
+
+  Super helpful [library](http://www.boost.org/doc/libs/1_55_0/libs/python/doc/) that makes it so that you only have to write wrapper classes to expose c++ code to python.
+
+  The wrapper classes are:
+
+    components_wrapper.h
+    components_wrapper.cpp
+
+**Ubuntu dependencies**
+
+    sudo apt-get install git libpcre++0 libpcre++-dev libghc-zlib-dev libfuse-dev libboost-dev libboost-python-dev python-setuptools libopencv-dev python-dev libpython2.7-dev
+
+
+**Makefile**
+
+
+When you type _make_ in this directory, it will compile several objects, and then link them together into a shared library called _pixel.so_.  This linked library can be invoked in the python interpreter, or the service layer, by typing
+
+    import pixel
+
+
+---
+
+
+### Service Layer ###
+
+Dependencies are installed with:
+
+    sudo easy_install flask
+
+Typing
+
+    python service.py
+
+runs the service.
+
+It's recommended that you set the 
+  
+  PIXEL_FILES
+
+environment variable to something like _/var/www/pixel_ or wherever you plan on hosting images.  No trailing slash is required.
+
+
+---
+
+Todo
+
+* service layer behind nginx
+* ubuntu startup script for service layer
+* method for organizing multiple documents (mongodb json dump?)
+
+
+
