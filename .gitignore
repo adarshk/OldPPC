@@ -2,3 +2,7 @@
 PaperPixelCode.xcodeproj/project.xcworkspace/xcshareddata/
 PaperPixelCode.xcodeproj/project.xcworkspace/xcuserdata/
 PaperPixelCode.xcodeproj/xcuserdata/
+DerivedData/
+*.swp
+*.o
+*.so

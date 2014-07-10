@@ -12,9 +12,25 @@
 #endif
 
 #include "find_components.h"
+#include <boost/python.hpp>
 
 namespace ppc {
     Components::Components():path(""){}
+    Components::Components(std::string d1):
+				path(d1),
+        no_of_threshold_levels(10),
+        lower_thresh(0),
+        upper_thresh(255),
+        counter(0),
+        extracted_images_counter(0),
+        area(500),
+        width(500),
+        height(500),
+        edge_image(lower_thresh,upper_thresh),
+        window_size(CV_WINDOW_AUTOSIZE),
+        display_extracted_images(false),
+        contours_image(CV_RETR_TREE,CV_CHAIN_APPROX_SIMPLE){}
+
     Components::Components(std::string& dir_path):
     
         path(dir_path),
@@ -67,7 +83,7 @@ namespace ppc {
         //    cv::GaussianBlur(source_image_resized,blurred_image,Size(1,1),0);
 //        cv::namedWindow("Blurred",CV_WINDOW_AUTOSIZE);
 //        cv::imshow("Blurred", source_image_blurred);
-        std::vector<std::vector<cv::Point>> contours;
+        std::vector<std::vector<cv::Point> > contours;
         
         squares.clear();
         
@@ -81,7 +97,7 @@ namespace ppc {
 //        cv::waitKey(0);
     }
     
-    void Components::squares_method(cv::Mat& gray0,cv::Mat& gray,std::vector<std::vector<cv::Point>>& contours) throw(cv::Exception){
+    void Components::squares_method(cv::Mat& gray0,cv::Mat& gray,std::vector<std::vector<cv::Point> >& contours) throw(cv::Exception){
         
         vector<cv::Vec4i> parent_hierarchy;
         vector<int> indexes;
@@ -112,7 +128,7 @@ namespace ppc {
                 //            cout << "contour size - " << contours.size() << endl;
                 //            cout << "hierarchy size - " << squares_hierarchy.size() << endl;
                 
-                for (vector<vector<Point>>::iterator itr = contours.begin(); itr!=contours.end(); ++itr) {
+                for (vector<vector<Point> >::iterator itr = contours.begin(); itr!=contours.end(); ++itr) {
                     //cout << "contours - " << *itr << endl;
                 }
                 
@@ -196,7 +212,7 @@ namespace ppc {
                 }
                 
                 Mat rect_hull = cv::Mat::zeros(gray.size(), CV_8UC3);
-                for (vector<vector<Point>>::iterator it=hull.begin(); it!=hull.end(); ++it) {
+                for (vector<vector<Point> >::iterator it=hull.begin(); it!=hull.end(); ++it) {
                     Rect rh = boundingRect(Mat(*it));
                     hull_rectangles.push_back(rh);
                     
@@ -276,7 +292,8 @@ namespace ppc {
             
             
             for (vector<Mat>::iterator exim=extracted_images.begin(); exim!=extracted_images.end(); ++exim) {
-                string image_name = "Image"+to_string(extracted_images_counter);
+		string image_name = str( boost::format("Image%03d") % extracted_images_counter );
+
                 namedWindow(image_name,CV_WINDOW_AUTOSIZE);
                 imshow(image_name, *exim);
                 extracted_images_counter++;
@@ -312,5 +329,7 @@ namespace ppc {
     void Components::save_image(string dir){
         imwrite( dir + "/image_result.jpg", source_image_output);
     }
-    
+
 }
+
+
